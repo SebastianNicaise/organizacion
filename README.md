@@ -17,6 +17,7 @@ Esta es una aplicación sencilla desarrollada con **React** que permite:
 - HTML & CSS
 
 
-##Probar aplicación
+## Probar aplicación
+---
 Clonar el repositorio, abrir la ruta y mediante un shell y/o la terminal del IDE, digitar npm start, que inicia la página en un servidor local de desarrollo
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
